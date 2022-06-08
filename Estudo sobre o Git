@@ -1,11 +1,11 @@
-O que e Git:
-Software de controle de versao, VCS distribuido.
-E um repositorio local.
-Criado em 2005 por Linux Torvalds em apenas 10 dias e sua sigla quer dizer Global Information Tracker.
+# O que e Git:
+Software de controle de versão, VCS distribuido.
+É um repositório local.
+Criado em 2005 por Linux Torvalds em apenas 10 dias e sua sigla quer dizer *Global Information Tracker.*
 
-Principais vantagens:
-Controle de historico
-Trabalho em equipe
-Ramificacao do projeto
-Seguranca
-Organizacao
+**Principais vantagens:**
+*Controle de historico
+*Trabalho em equipe
+*Ramificacao do projeto
+*Seguranca
+*Organizacao
